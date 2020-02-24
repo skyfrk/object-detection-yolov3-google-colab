@@ -1,18 +1,19 @@
 # How to train YOLOv3 using Darknet on Google Colaboratory
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robingenz/object-detection-yolov3-google-colab/blob/master/Object_Detection_YOLOv3_Google_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skyfrk/object-detection-yolov3-google-colab/blob/master/Object_Detection_YOLOv3_Google_Colab.ipynb)
 
-- [Introduction](#introduction)
-- [Setup](#setup)
-  - [Install dependencies](#install-dependencies)
-  - [Check hardware accelerator](#check-hardware-accelerator)
-  - [Mount Google Drive](#mount-google-drive)
-- [Train](#train)
-  - [Start a new training](#start-a-new-training)
-  - [Continue training](#continue-training)
-- [Test](#test)
-  - [Run the detector](#run-the-detector)
-  - [Display an image in VM](#display-an-image-in-vm)
+- [How to train YOLOv3 using Darknet on Google Colaboratory](#how-to-train-yolov3-using-darknet-on-google-colaboratory)
+  - [Introduction](#introduction)
+  - [Setup](#setup)
+    - [Install dependencies](#install-dependencies)
+    - [Check hardware accelerator](#check-hardware-accelerator)
+    - [Mount Google Drive](#mount-google-drive)
+  - [Train](#train)
+    - [Start a new training](#start-a-new-training)
+    - [Continue training](#continue-training)
+  - [Test](#test)
+    - [Run the detector](#run-the-detector)
+    - [Display an image in VM](#display-an-image-in-vm)
 
 ## Introduction 
 
